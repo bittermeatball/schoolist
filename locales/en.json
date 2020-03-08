@@ -1,0 +1,19 @@
+{
+  "common": {
+    "search": "Search",
+    "header": {
+      "filter" : "Add filter"
+    },
+    "footer": "Schoolist - Google's Solution challenge 2019"
+  },
+  "home": {
+    "project": "Schoolist",
+    "title": "Welcome",
+    "lang": "Eng",
+    "introduction": "This is an introduction in English.",
+    "navbar": "Schoolist",
+    "header": "This is a header",
+    "sidebar": "This is a sidebar",
+    "footer": "Schoolist - Google's Solution challenge 2019"
+  }
+}

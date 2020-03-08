@@ -1,0 +1,19 @@
+{
+  "common": {
+    "search": "Search",
+    "header": {
+      "filter" : "Add filter"
+    },
+    "footer": "Schoolist - Google's Solution challenge 2019"
+  },
+  "home": {
+    "project": "Schoolist",
+    "title": "Chào mừng",
+    "lang": "Việt",
+    "introduction": "Đây là một đoạn giới thiệu bằng Tiếng Việt.",
+    "navbar": "Schoolist",
+    "header": "Đây là một header",
+    "sidebar": "Đây là một sidebar",
+    "footer": "Mẫu website này được làm bởi thecodeorigin.com"
+  }
+}
